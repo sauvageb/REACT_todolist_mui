@@ -45,7 +45,7 @@ function EditTask() {
     return (<>
 
         <Container sx={{py: 4}}>
-            <Typography align="center" component="h1" variant="h5">Add Task</Typography>
+            <Typography align="center" component="h1" variant="h5">Edit Task</Typography>
             <Box component="form" noValidate onSubmit={handleSubmit(onSubmit)} sx={{mt: 3}}>
                 <Grid container spacing={2}>
                     <Grid item xs={12}>

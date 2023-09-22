@@ -4,7 +4,6 @@
     <list default="true" id="bea4f8d3-5461-42c7-a393-b20c692b605b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json-server.json" beforeDir="false" afterPath="$PROJECT_DIR$/json-server.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/EditTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EditTask.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +38,11 @@
     "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695031386200</updated>
-      <workItem from="1695031388222" duration="26458000" />
+      <workItem from="1695031388222" duration="26865000" />
     </task>
     <servers />
   </component>

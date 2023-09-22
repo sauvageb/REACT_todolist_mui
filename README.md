@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Aperçus
+
+Liste des tâches
+![New Web service](https://raw.githubusercontent.com/sauvageb/REACT_todolist_mui/main/images/1.png)
+
+Ajout d'une tache
+![New Web service](https://raw.githubusercontent.com/sauvageb/REACT_todolist_mui/main/images/2.png)
+
+Édition d'une tache
+
+![New Web service](https://raw.githubusercontent.com/sauvageb/REACT_todolist_mui/main/images/3.png)
+
 ## Dépendances
 
 - react v18.2
@@ -10,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - icons-material 5
 - @emotion 11
 
-## Available Scripts
+## Scripts disponibles
 
 In the project directory, you can run:
 
