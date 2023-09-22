@@ -12,7 +12,7 @@ Ajout d'une tache
 
 Édition d'une tache
 
-![New Web service](https://raw.githubusercontent.com/sauvageb/REACT_todolist_mui/main/images/3.png)
+![New Web service](https://raw.githubusercontent.com/sauvageb/REACT_todolist_mui/main/images/edit.png)
 
 ## Dépendances
 
